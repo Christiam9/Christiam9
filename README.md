@@ -33,13 +33,13 @@ Web Project Homeland
 
 Proyecto responsive enfocado en maquetación avanzada con HTML y CSS usando metodología BEM.
 
-🔗 Repo: https://github.com/Christiam9/web_project_homeland
+🔗 Repo: https://christiam9.github.io/web_project_homeland/
 
 Web Project CoffeeShop
 
 Landing page responsive aplicando estructura semántica, diseño adaptable y buenas prácticas de CSS.
 
-🔗 Repo: https://github.com/Christiam9/web_project_coffeeshop
+🔗 Repo: https://christiam9.github.io/web_project_coffeeshop/
 
 📫 Contacto
 
