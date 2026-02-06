@@ -27,9 +27,7 @@ Around The U.S.
 Aplicación web interactiva enfocada en manipulación del DOM, eventos y lógica de interfaz.
 Incluye edición de perfil, renderizado dinámico de tarjetas, sistema de likes, popups y validación de formularios.
 
-🔗 Demo: https://christiam9.github.io/web_project_around/
-
-🔗 Repo: https://github.com/Christiam9/web_project_around
+🔗 Repo: https://christiam9.github.io/web_project_around_es/
 
 Web Project Homeland
 
@@ -45,6 +43,6 @@ Landing page responsive aplicando estructura semántica, diseño adaptable y bue
 
 📫 Contacto
 
-LinkedIn: https://www.linkedin.com/in/christiam-ruiz-91554a368/
+LinkedIn: https://www.linkedin.com/in/christiam-ruiz
 
 GitHub: https://github.com/Christiam9
