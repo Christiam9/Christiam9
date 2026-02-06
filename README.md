@@ -1,65 +1,50 @@
-# 👋 Hola, soy Chris
+👋 Hola, soy Christiam Ruiz
 
-🎯 Frontend Developer en formación apasionado por crear interfaces interactivas y funcionales.
+Frontend Developer en formación enfocado en construir interfaces interactivas y funcionales.
+Actualmente desarrollo proyectos con HTML, CSS y JavaScript, fortaleciendo lógica, manipulación del DOM y buenas prácticas de desarrollo.
 
-Actualmente me estoy especializando en **HTML, CSS y JavaScript**, construyendo proyectos reales enfocados en manipulación del DOM, lógica de interfaz y experiencia de usuario.
+🚀 Tecnologías
 
----
+HTML5
 
-## 🚀 Sobre mí
+CSS3 (BEM, Responsive Design)
 
-- 💻 Estudiante de desarrollo Frontend (Bootcamp)
-- 🧠 Enfocado en lógica, estructura y buenas prácticas
-- 🎯 Objetivo: Convertirme en Frontend Developer profesional
-- 📍 Colombia
-- ⚡ Me gusta construir, entender y mejorar cada proyecto
+JavaScript (ES6)
 
----
+Git & GitHub
 
-## 🛠 Tecnologías
+📌 Actualmente
 
-- HTML5  
-- CSS3 (Responsive / BEM)  
-- JavaScript (ES6)  
-- Git & GitHub  
-- DOM Manipulation  
+Estudiando Desarrollo Frontend
 
----
+Construyendo proyectos prácticos
 
-## 📂 Proyectos Destacados
+Próximamente: React
 
-### 🔹 Around The U.S.
-Aplicación web interactiva con renderizado dinámico, popups reutilizables, likes y edición de perfil.
+💻 Proyectos Destacados
+Around The U.S.
 
-**Tecnologías:** HTML · CSS · JavaScript · BEM · Responsive  
-**Demo:** https://christiam9.github.io/web_project_around/  
-**Repo:** https://github.com/Christiam9/web_project_around
+Aplicación web interactiva enfocada en manipulación del DOM, eventos y lógica de interfaz.
+Incluye edición de perfil, renderizado dinámico de tarjetas, sistema de likes, popups y validación de formularios.
 
----
+🔗 Demo: https://christiam9.github.io/web_project_around/
 
-### 🔹 Web Project Homeland
-Proyecto enfocado en maquetación responsive y estructura semántica.
+🔗 Repo: https://github.com/Christiam9/web_project_around
 
-**Repo:** https://github.com/Christiam9/web_project_homeland
+Web Project Homeland
 
----
+Proyecto responsive enfocado en maquetación avanzada con HTML y CSS usando metodología BEM.
 
-### 🔹 Web Project CoffeeShop
-Landing page responsive con estructura modular y estilos organizados.
+🔗 Repo: https://github.com/Christiam9/web_project_homeland
 
-**Repo:** https://github.com/Christiam9/web_project_coffeeshop
+Web Project CoffeeShop
 
----
+Landing page responsive aplicando estructura semántica, diseño adaptable y buenas prácticas de CSS.
 
-## 📈 Actualmente aprendiendo
+🔗 Repo: https://github.com/Christiam9/web_project_coffeeshop
 
-- JavaScript avanzado
-- Modularización
-- React (próximamente)
+📫 Contacto
 
----
+LinkedIn: https://www.linkedin.com/in/christiam-ruiz-91554a368/
 
-## 📫 Contacto
-
-- LinkedIn: (pon aquí tu link)
-- GitHub: https://github.com/Christiam9
+GitHub: https://github.com/Christiam9
